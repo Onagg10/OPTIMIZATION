@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;solidifivem ha realizzato questo codice
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\Stereo3D]
+"EnableStereoSupport"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NvCplApi\Policies]
+"EnableVirtualSync"=dword:00000000
