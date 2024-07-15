@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;solidi fivem ha realizzato questo codice
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseSpeed"="0"
